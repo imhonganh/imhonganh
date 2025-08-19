@@ -3,7 +3,7 @@
 🎓Student of Management Information Systems at University of Finance - Marketing, passionate about building meaningful software and exploring the world of technology. I am constantly learning and love new challenges, especially in the fields of *software testing*, *automation* and *AI applications*. I am actively looking for opportunities to develop myself as a QA Engineer/Automation Tester.
 
 ### 🌟 Skills & Technologies
-- Programming Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- Programming Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 - AI & Data: ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat) 
 
